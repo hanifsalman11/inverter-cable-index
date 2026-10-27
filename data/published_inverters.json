@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "inverter_name": "Victron MultiPlus-II 12/3000/120-50 2x120V Inverter/Charger",
+    "slug": "victron-multiplus-ii-123000120-50-2x120v-invertercharger-wire-fuse-battery-calculator",
+    "title": "Victron MultiPlus-II 12/3000/120-50 2x120V Inverter/Charger Wire Size (AWG), Fuse & Battery Runtime Calculator (2026)",
+    "description": "Calculate exact DC amp draw (215A continuous / 493A surge), ABYC copper cable size (4/0 AWG 100% OFC Welding/Marine Copper), 300A Class-T fuse, and 400Ah LiFePO4 runtime (3.3 hrs) for Victron MultiPlus-II 12/3000/120-50 2x120V Inverter/Charger.",
+    "watts": 2400,
+    "volts": 12,
+    "dc_amps": 215,
+    "fuse_a": 300,
+    "date": "2026-10-27"
+  },
+  {
+    "inverter_name": "Victron MultiPlus 24/3000/70-50 Pure Sine Inverter/Charger",
+    "slug": "victron-multiplus-24300070-50-pure-sine-invertercharger-wire-fuse-battery-calculator",
+    "title": "Victron MultiPlus 24/3000/70-50 Pure Sine Inverter/Charger Wire Size (AWG), Fuse & Battery Runtime Calculator (2026)",
+    "description": "Calculate exact DC amp draw (106A continuous / 266A surge), ABYC copper cable size (2 AWG 100% OFC Welding/Marine Copper), 150A Class-T fuse, and 200Ah LiFePO4 runtime (3.4 hrs) for Victron MultiPlus 24/3000/70-50 Pure Sine Inverter/Charger.",
+    "watts": 2400,
+    "volts": 24,
+    "dc_amps": 106,
+    "fuse_a": 150,
+    "date": "2026-10-27"
+  },
+  {
+    "inverter_name": "Victron Quattro 48/5000/70-100 Off-Grid Inverter/Charger",
+    "slug": "victron-quattro-48500070-100-off-grid-invertercharger-wire-fuse-battery-calculator",
+    "title": "Victron Quattro 48/5000/70-100 Off-Grid Inverter/Charger Wire Size (AWG), Fuse & Battery Runtime Calculator (2026)",
+    "description": "Calculate exact DC amp draw (88A continuous / 219A surge), ABYC copper cable size (4 AWG 100% OFC Welding/Marine Copper), 110A Class-T fuse, and 200Ah LiFePO4 runtime (4.1 hrs) for Victron Quattro 48/5000/70-100 Off-Grid Inverter/Charger.",
+    "watts": 4000,
+    "volts": 48,
+    "dc_amps": 88,
+    "fuse_a": 110,
+    "date": "2026-10-27"
+  }
+]

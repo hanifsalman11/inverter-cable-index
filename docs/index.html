@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>InverterCableIndex — 12V/24V/48V Power Inverter Wire Size, Fuse & Battery Calculator (2026)</title>
+  <meta name="description" content="Calculate exact DC amp draw, 4/0 to 4 AWG welding-grade copper battery cable size, Class-T fuse ratings, and LiFePO4 runtime for Victron MultiPlus, Renogy, Giandel, Xantrex, and AIMS pure sine wave inverters.">
+  <link rel="canonical" href="https://hanifsalman11.github.io/inverter-cable-index/">
+  <link rel="alternate" type="application/rss+xml" title="InverterCableIndex RSS Feed" href="https://hanifsalman11.github.io/inverter-cable-index/rss.xml">
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-slate-950 text-slate-100 min-h-screen flex flex-col">
+  <header class="border-b border-slate-800 bg-slate-900/80 sticky top-0 z-30 backdrop-blur">
+    <div class="max-w-5xl mx-auto px-4 py-3.5 flex items-center justify-between">
+      <div class="text-lg font-black text-white flex items-center gap-2">
+        <span class="bg-emerald-500 text-slate-950 px-2 py-0.5 rounded font-black">INVERTER</span>CableIndex
+      </div>
+      <a href="https://www.amazon.com/s?k=Pure%2BSine%2BWave%2BPower%2BInverter%2B2000W%2B3000W%2BClass%2BT%2BFuse%2BLiFePO4&tag=salmanrevie04-20" target="_blank" rel="nofollow sponsored" class="text-xs sm:text-sm bg-emerald-500 hover:bg-emerald-400 text-slate-950 font-extrabold px-3.5 py-2 rounded-lg transition">
+        Shop Pure Sine Wave Inverters & Battery Kits on Amazon →
+      </a>
+    </div>
+  </header>
+
+  <main class="max-w-5xl mx-auto px-4 py-12 flex-1 w-full">
+    <div class="text-center max-w-2xl mx-auto mb-10">
+      <h1 class="text-3xl sm:text-5xl font-black text-white tracking-tight">Power Inverter Wire Size (AWG), Class-T Fuse & Battery Database</h1>
+      <p class="text-slate-400 mt-3 text-base sm:text-lg">Select your 12V, 24V, or 48V pure sine wave inverter below to calculate continuous DC amp draw, ABYC copper battery cable gauge, 20,000A AIC Class-T fuse size, and LiFePO4 runtime.</p>
+      <div class="mt-6">
+        <input id="filterInput" type="text" placeholder="Search inverter model or wattage (e.g. Victron MultiPlus 3000, Renogy 2000W, Giandel, Xantrex, 12V, 24V...)" class="w-full bg-slate-900 border border-slate-700 rounded-xl px-4 py-3.5 text-sm text-white focus:outline-none focus:border-emerald-500">
+      </div>
+    </div>
+
+    <div id="invGrid" class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
+        <a href="victron-quattro-48500070-100-off-grid-invertercharger-wire-fuse-battery-calculator.html" class="block bg-slate-900 border border-slate-800 hover:border-emerald-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-emerald-500 text-slate-950 px-2.5 py-0.5 rounded">4,000W (48V)</span>
+            <span class="text-xs text-slate-400">88A | 110A Fuse</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-emerald-400 transition">Victron Quattro 48/5000/70-100 Off-Grid Inverter/Charger</h2>
+          <p class="text-xs text-slate-400 mt-2 line-clamp-2">Calculate exact DC amp draw (88A continuous / 219A surge), ABYC copper cable size (4 AWG 100% OFC Welding/Marine Copper), 110A Class-T fuse, and 200Ah LiFePO4 runtime (4.1 hrs) for Victron Quattro 48/5000/70-100 Off-Grid Inverter/Charger.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-emerald-400">Calculate Wire AWG, Fuse & Runtime →</span>
+        </a>
+        <a href="victron-multiplus-24300070-50-pure-sine-invertercharger-wire-fuse-battery-calculator.html" class="block bg-slate-900 border border-slate-800 hover:border-emerald-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-emerald-500 text-slate-950 px-2.5 py-0.5 rounded">2,400W (24V)</span>
+            <span class="text-xs text-slate-400">106A | 150A Fuse</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-emerald-400 transition">Victron MultiPlus 24/3000/70-50 Pure Sine Inverter/Charger</h2>
+          <p class="text-xs text-slate-400 mt-2 line-clamp-2">Calculate exact DC amp draw (106A continuous / 266A surge), ABYC copper cable size (2 AWG 100% OFC Welding/Marine Copper), 150A Class-T fuse, and 200Ah LiFePO4 runtime (3.4 hrs) for Victron MultiPlus 24/3000/70-50 Pure Sine Inverter/Charger.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-emerald-400">Calculate Wire AWG, Fuse & Runtime →</span>
+        </a>
+        <a href="victron-multiplus-ii-123000120-50-2x120v-invertercharger-wire-fuse-battery-calculator.html" class="block bg-slate-900 border border-slate-800 hover:border-emerald-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-emerald-500 text-slate-950 px-2.5 py-0.5 rounded">2,400W (12V)</span>
+            <span class="text-xs text-slate-400">215A | 300A Fuse</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-emerald-400 transition">Victron MultiPlus-II 12/3000/120-50 2x120V Inverter/Charger</h2>
+          <p class="text-xs text-slate-400 mt-2 line-clamp-2">Calculate exact DC amp draw (215A continuous / 493A surge), ABYC copper cable size (4/0 AWG 100% OFC Welding/Marine Copper), 300A Class-T fuse, and 400Ah LiFePO4 runtime (3.3 hrs) for Victron MultiPlus-II 12/3000/120-50 2x120V Inverter/Charger.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-emerald-400">Calculate Wire AWG, Fuse & Runtime →</span>
+        </a></div>
+  </main>
+
+  <footer class="border-t border-slate-800 py-8 text-center text-xs text-slate-500">
+    <p>© 2026 InverterCableIndex. As an Amazon Associate, we earn from qualifying purchases.</p>
+  </footer>
+
+  <script>
+    const filterInput = document.getElementById('filterInput');
+    const cards = Array.from(document.getElementById('invGrid').children);
+    filterInput.addEventListener('input', (e) => {
+      const q = e.target.value.toLowerCase();
+      cards.forEach(c => {
+        c.style.display = c.textContent.toLowerCase().includes(q) ? 'block' : 'none';
+      });
+    });
+  </script>
+</body>
+</html>
