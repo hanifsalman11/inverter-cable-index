@@ -229,5 +229,38 @@
     "dc_amps": 185,
     "fuse_a": 250,
     "date": "2026-10-29"
+  },
+  {
+    "inverter_name": " Krieger & BESTEK 2000W 12V Semi-Truck Sleeper Inverter",
+    "slug": "krieger-bestek-2000w-12v-semi-truck-sleeper-inverter-wire-fuse-battery-calculator",
+    "title": " Krieger & BESTEK 2000W 12V Semi-Truck Sleeper Inverter Wire Size (AWG), Fuse & Battery Runtime Calculator (2026)",
+    "description": "Calculate exact DC amp draw (187A continuous / 375A surge), ABYC copper cable size (2/0 AWG 100% OFC Welding/Marine Copper), 250A Class-T fuse, and 200Ah LiFePO4 runtime (1.9 hrs) for  Krieger & BESTEK 2000W 12V Semi-Truck Sleeper Inverter.",
+    "watts": 2000,
+    "volts": 12,
+    "dc_amps": 187,
+    "fuse_a": 250,
+    "date": "2026-10-29"
+  },
+  {
+    "inverter_name": "WZRELB Reliable 3000W 24V/48V Pure Sine Wave Off-Grid",
+    "slug": "wzrelb-reliable-3000w-24v48v-pure-sine-wave-off-grid-wire-fuse-battery-calculator",
+    "title": "WZRELB Reliable 3000W 24V/48V Pure Sine Wave Off-Grid Wire Size (AWG), Fuse & Battery Runtime Calculator (2026)",
+    "description": "Calculate exact DC amp draw (137A continuous / 275A surge), ABYC copper cable size (1/0 AWG 100% OFC Welding/Marine Copper), 200A Class-T fuse, and 200Ah LiFePO4 runtime (2.6 hrs) for WZRELB Reliable 3000W 24V/48V Pure Sine Wave Off-Grid.",
+    "watts": 3000,
+    "volts": 24,
+    "dc_amps": 137,
+    "fuse_a": 200,
+    "date": "2026-10-29"
+  },
+  {
+    "inverter_name": "Sungoldpower 4000W 24V / 6000W 48V Low-Frequency Inverter",
+    "slug": "sungoldpower-4000w-24v-6000w-48v-low-frequency-inverter-wire-fuse-battery-calculator",
+    "title": "Sungoldpower 4000W 24V / 6000W 48V Low-Frequency Inverter Wire Size (AWG), Fuse & Battery Runtime Calculator (2026)",
+    "description": "Calculate exact DC amp draw (183A continuous / 549A surge), ABYC copper cable size (2/0 AWG 100% OFC Welding/Marine Copper), 250A Class-T fuse, and 200Ah LiFePO4 runtime (2.0 hrs) for Sungoldpower 4000W 24V / 6000W 48V Low-Frequency Inverter.",
+    "watts": 4000,
+    "volts": 24,
+    "dc_amps": 183,
+    "fuse_a": 250,
+    "date": "2026-10-29"
   }
 ]
