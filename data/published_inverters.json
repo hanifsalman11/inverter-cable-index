@@ -295,5 +295,38 @@
     "dc_amps": 185,
     "fuse_a": 250,
     "date": "2026-10-29"
+  },
+  {
+    "inverter_name": "3000W 12V vs 24V Pure Sine Inverter Wire & Fuse Sizing",
+    "slug": "3000w-12v-vs-24v-pure-sine-inverter-wire-fuse-sizing-wire-fuse-battery-calculator",
+    "title": "3000W 12V vs 24V Pure Sine Inverter Wire & Fuse Sizing Wire Size (AWG), Fuse & Battery Runtime Calculator (2026)",
+    "description": "Calculate exact DC amp draw (278A continuous / 556A surge), ABYC copper cable size (4/0 AWG (or Dual 2/0 AWG) 100% OFC Copper), 400A Class-T fuse, and 400Ah LiFePO4 runtime (2.6 hrs) for 3000W 12V vs 24V Pure Sine Inverter Wire & Fuse Sizing.",
+    "watts": 3000,
+    "volts": 12,
+    "dc_amps": 278,
+    "fuse_a": 400,
+    "date": "2026-10-30"
+  },
+  {
+    "inverter_name": "4000W 24V vs 48V Pure Sine Inverter Wire & Fuse Sizing",
+    "slug": "4000w-24v-vs-48v-pure-sine-inverter-wire-fuse-sizing-wire-fuse-battery-calculator",
+    "title": "4000W 24V vs 48V Pure Sine Inverter Wire & Fuse Sizing Wire Size (AWG), Fuse & Battery Runtime Calculator (2026)",
+    "description": "Calculate exact DC amp draw (181A continuous / 362A surge), ABYC copper cable size (2/0 AWG 100% OFC Welding/Marine Copper), 250A Class-T fuse, and 200Ah LiFePO4 runtime (2.0 hrs) for 4000W 24V vs 48V Pure Sine Inverter Wire & Fuse Sizing.",
+    "watts": 4000,
+    "volts": 24,
+    "dc_amps": 181,
+    "fuse_a": 250,
+    "date": "2026-10-30"
+  },
+  {
+    "inverter_name": "5000W 48V Whole-Cabin Off-Grid Inverter Wire & Fuse Sizing",
+    "slug": "5000w-48v-whole-cabin-off-grid-inverter-wire-fuse-sizing-wire-fuse-battery-calculator",
+    "title": "5000W 48V Whole-Cabin Off-Grid Inverter Wire & Fuse Sizing Wire Size (AWG), Fuse & Battery Runtime Calculator (2026)",
+    "description": "Calculate exact DC amp draw (111A continuous / 222A surge), ABYC copper cable size (2 AWG 100% OFC Welding/Marine Copper), 150A Class-T fuse, and 200Ah LiFePO4 runtime (3.2 hrs) for 5000W 48V Whole-Cabin Off-Grid Inverter Wire & Fuse Sizing.",
+    "watts": 5000,
+    "volts": 48,
+    "dc_amps": 111,
+    "fuse_a": 150,
+    "date": "2026-10-30"
   }
 ]
