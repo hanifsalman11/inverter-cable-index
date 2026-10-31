@@ -427,5 +427,38 @@
     "dc_amps": 185,
     "fuse_a": 250,
     "date": "2026-10-31"
+  },
+  {
+    "inverter_name": "What    1500W Inverter",
+    "slug": "what-1500w-inverter-wire-fuse-battery-calculator",
+    "title": "What    1500W Inverter Wire Size (AWG), Fuse & Battery Runtime Calculator (2026)",
+    "description": "Calculate exact DC amp draw (139A continuous / 278A surge), ABYC copper cable size (1/0 AWG 100% OFC Welding/Marine Copper), 200A Class-T fuse, and 200Ah LiFePO4 runtime (2.6 hrs) for What    1500W Inverter.",
+    "watts": 1500,
+    "volts": 12,
+    "dc_amps": 139,
+    "fuse_a": 200,
+    "date": "2026-10-31"
+  },
+  {
+    "inverter_name": "What Amp   Inverter",
+    "slug": "what-amp-inverter-wire-fuse-battery-calculator",
+    "title": "What Amp   Inverter Wire Size (AWG), Fuse & Battery Runtime Calculator (2026)",
+    "description": "Calculate exact DC amp draw (185A continuous / 370A surge), ABYC copper cable size (2/0 AWG 100% OFC Welding/Marine Copper), 250A Class-T fuse, and 200Ah LiFePO4 runtime (1.9 hrs) for What Amp   Inverter.",
+    "watts": 2000,
+    "volts": 12,
+    "dc_amps": 185,
+    "fuse_a": 250,
+    "date": "2026-10-31"
+  },
+  {
+    "inverter_name": "What    2000W Inverter 12V",
+    "slug": "what-2000w-inverter-12v-wire-fuse-battery-calculator",
+    "title": "What    2000W Inverter 12V Wire Size (AWG), Fuse & Battery Runtime Calculator (2026)",
+    "description": "Calculate exact DC amp draw (185A continuous / 370A surge), ABYC copper cable size (2/0 AWG 100% OFC Welding/Marine Copper), 250A Class-T fuse, and 200Ah LiFePO4 runtime (1.9 hrs) for What    2000W Inverter 12V.",
+    "watts": 2000,
+    "volts": 12,
+    "dc_amps": 185,
+    "fuse_a": 250,
+    "date": "2026-10-31"
   }
 ]
