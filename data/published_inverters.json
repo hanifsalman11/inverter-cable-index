@@ -625,5 +625,38 @@
     "dc_amps": 185,
     "fuse_a": 250,
     "date": "2026-11-02"
+  },
+  {
+    "inverter_name": "Renogy Pure Sine Wave Inverter 1000W",
+    "slug": "renogy-pure-sine-wave-inverter-1000w-wire-fuse-battery-calculator",
+    "title": "Renogy Pure Sine Wave Inverter 1000W Wire Size (AWG), Fuse & Battery Runtime Calculator (2026)",
+    "description": "Calculate exact DC amp draw (93A continuous / 185A surge), ABYC copper cable size (2 AWG 100% OFC Welding/Marine Copper), 150A Class-T fuse, and 200Ah LiFePO4 runtime (3.9 hrs) for Renogy Pure Sine Wave Inverter 1000W.",
+    "watts": 1000,
+    "volts": 12,
+    "dc_amps": 93,
+    "fuse_a": 150,
+    "date": "2026-11-02"
+  },
+  {
+    "inverter_name": "Renogy Pure Sine Wave Inverter",
+    "slug": "renogy-pure-sine-wave-inverter-wire-fuse-battery-calculator",
+    "title": "Renogy Pure Sine Wave Inverter Wire Size (AWG), Fuse & Battery Runtime Calculator (2026)",
+    "description": "Calculate exact DC amp draw (185A continuous / 370A surge), ABYC copper cable size (2/0 AWG 100% OFC Welding/Marine Copper), 250A Class-T fuse, and 200Ah LiFePO4 runtime (1.9 hrs) for Renogy Pure Sine Wave Inverter.",
+    "watts": 2000,
+    "volts": 12,
+    "dc_amps": 185,
+    "fuse_a": 250,
+    "date": "2026-11-02"
+  },
+  {
+    "inverter_name": "Renogy Pure Sine Wave Inverter Charger",
+    "slug": "renogy-pure-sine-wave-inverter-charger-wire-fuse-battery-calculator",
+    "title": "Renogy Pure Sine Wave Inverter Charger Wire Size (AWG), Fuse & Battery Runtime Calculator (2026)",
+    "description": "Calculate exact DC amp draw (185A continuous / 370A surge), ABYC copper cable size (2/0 AWG 100% OFC Welding/Marine Copper), 250A Class-T fuse, and 200Ah LiFePO4 runtime (1.9 hrs) for Renogy Pure Sine Wave Inverter Charger.",
+    "watts": 2000,
+    "volts": 12,
+    "dc_amps": 185,
+    "fuse_a": 250,
+    "date": "2026-11-02"
   }
 ]
