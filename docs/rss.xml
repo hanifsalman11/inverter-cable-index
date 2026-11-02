@@ -7,6 +7,12 @@
     <atom:link href="https://hanifsalman11.github.io/inverter-cable-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Renogy Pure Sine Wave Inverter 700W Wire Size (AWG), Fuse & Battery Runtime Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/inverter-cable-index/renogy-pure-sine-wave-inverter-700w-wire-fuse-battery-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/inverter-cable-index/renogy-pure-sine-wave-inverter-700w-wire-fuse-battery-calculator.html</guid>
+      <description>Calculate exact DC amp draw (185A continuous / 370A surge), ABYC copper cable size (2/0 AWG 100% OFC Welding/Marine Copper), 250A Class-T fuse, and 200Ah LiFePO4 runtime (1.9 hrs) for Renogy Pure Sine Wave Inverter 700W.</description>
+    </item>
+    <item>
       <title>Renogy Pure Sine Wave Inverter Charger Wire Size (AWG), Fuse & Battery Runtime Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/inverter-cable-index/renogy-pure-sine-wave-inverter-charger-wire-fuse-battery-calculator.html</link>
       <guid>https://hanifsalman11.github.io/inverter-cable-index/renogy-pure-sine-wave-inverter-charger-wire-fuse-battery-calculator.html</guid>
@@ -179,12 +185,6 @@
       <link>https://hanifsalman11.github.io/inverter-cable-index/what-gauge-inverter-wire-fuse-battery-calculator.html</link>
       <guid>https://hanifsalman11.github.io/inverter-cable-index/what-gauge-inverter-wire-fuse-battery-calculator.html</guid>
       <description>Calculate exact DC amp draw (185A continuous / 370A surge), ABYC copper cable size (2/0 AWG 100% OFC Welding/Marine Copper), 250A Class-T fuse, and 200Ah LiFePO4 runtime (1.9 hrs) for What Gauge   Inverter.</description>
-    </item>
-    <item>
-      <title>What    Inverter Wire Size (AWG), Fuse & Battery Runtime Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/inverter-cable-index/what-inverter-wire-fuse-battery-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/inverter-cable-index/what-inverter-wire-fuse-battery-calculator.html</guid>
-      <description>Calculate exact DC amp draw (185A continuous / 370A surge), ABYC copper cable size (2/0 AWG 100% OFC Welding/Marine Copper), 250A Class-T fuse, and 200Ah LiFePO4 runtime (1.9 hrs) for What    Inverter.</description>
     </item>
   </channel>
 </rss>

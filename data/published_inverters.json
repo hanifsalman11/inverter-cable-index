@@ -658,5 +658,16 @@
     "dc_amps": 185,
     "fuse_a": 250,
     "date": "2026-11-02"
+  },
+  {
+    "inverter_name": "Renogy Pure Sine Wave Inverter 700W",
+    "slug": "renogy-pure-sine-wave-inverter-700w-wire-fuse-battery-calculator",
+    "title": "Renogy Pure Sine Wave Inverter 700W Wire Size (AWG), Fuse & Battery Runtime Calculator (2026)",
+    "description": "Calculate exact DC amp draw (185A continuous / 370A surge), ABYC copper cable size (2/0 AWG 100% OFC Welding/Marine Copper), 250A Class-T fuse, and 200Ah LiFePO4 runtime (1.9 hrs) for Renogy Pure Sine Wave Inverter 700W.",
+    "watts": 2000,
+    "volts": 12,
+    "dc_amps": 185,
+    "fuse_a": 250,
+    "date": "2026-11-02"
   }
 ]
