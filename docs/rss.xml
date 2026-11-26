@@ -7,6 +7,12 @@
     <atom:link href="https://hanifsalman11.github.io/inverter-cable-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Victron Multiplus Compact Wire Size (AWG), Fuse & Battery Runtime Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/inverter-cable-index/victron-multiplus-compact-wire-fuse-battery-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/inverter-cable-index/victron-multiplus-compact-wire-fuse-battery-calculator.html</guid>
+      <description>Calculate exact DC amp draw (185A continuous / 370A surge), ABYC copper cable size (2/0 AWG 100% OFC Welding/Marine Copper), 250A Class-T fuse, and 200Ah LiFePO4 runtime (1.9 hrs) for Victron Multiplus Compact.</description>
+    </item>
+    <item>
       <title>Victron Multiplus Ii 12 4000 Wire Size (AWG), Fuse & Battery Runtime Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/inverter-cable-index/victron-multiplus-ii-12-4000-wire-fuse-battery-calculator.html</link>
       <guid>https://hanifsalman11.github.io/inverter-cable-index/victron-multiplus-ii-12-4000-wire-fuse-battery-calculator.html</guid>
@@ -179,12 +185,6 @@
       <link>https://hanifsalman11.github.io/inverter-cable-index/what-gauge-inverter-to-car-battery-wire-fuse-battery-calculator.html</link>
       <guid>https://hanifsalman11.github.io/inverter-cable-index/what-gauge-inverter-to-car-battery-wire-fuse-battery-calculator.html</guid>
       <description>Calculate exact DC amp draw (185A continuous / 370A surge), ABYC copper cable size (2/0 AWG 100% OFC Welding/Marine Copper), 250A Class-T fuse, and 200Ah LiFePO4 runtime (1.9 hrs) for What Gauge   Inverter To Car Battery.</description>
-    </item>
-    <item>
-      <title>What  Cable  Inverter Wire Size (AWG), Fuse & Battery Runtime Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/inverter-cable-index/what-cable-inverter-wire-fuse-battery-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/inverter-cable-index/what-cable-inverter-wire-fuse-battery-calculator.html</guid>
-      <description>Calculate exact DC amp draw (185A continuous / 370A surge), ABYC copper cable size (2/0 AWG 100% OFC Welding/Marine Copper), 250A Class-T fuse, and 200Ah LiFePO4 runtime (1.9 hrs) for What  Cable  Inverter.</description>
     </item>
   </channel>
 </rss>
